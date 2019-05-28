@@ -1,0 +1,22 @@
+//base style
+
+body {
+    background-color: $pastelBlue;
+}
+
+header {
+    background-color: $spanishGrey;
+
+    nav {
+        text-align: center;
+        background-color: $spanishGrey;
+
+        li {
+            list-style-type: none;
+
+            a {
+                text-decoration: none;
+            }
+        }
+    }
+}
